@@ -1,8 +1,3 @@
-[APP controle de gastos x index.html](https://github.com/user-attachments/files/28114434/APP.controle.de.gastos.x.index.html)
-
-
-
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
